@@ -1,0 +1,10 @@
+C:\Users\AdelSS04\source\repos\Projet\Projet\obj\Debug\Projet.csprojAssemblyReference.cache
+C:\Users\AdelSS04\source\repos\Projet\Projet\obj\Debug\Projet.Login.resources
+C:\Users\AdelSS04\source\repos\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
+C:\Users\AdelSS04\source\repos\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.cache
+C:\Users\AdelSS04\source\repos\Projet\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\AdelSS04\source\repos\Projet\Projet\bin\Debug\Projet.exe.config
+C:\Users\AdelSS04\source\repos\Projet\Projet\bin\Debug\Projet.exe
+C:\Users\AdelSS04\source\repos\Projet\Projet\bin\Debug\Projet.pdb
+C:\Users\AdelSS04\source\repos\Projet\Projet\obj\Debug\Projet.exe
+C:\Users\AdelSS04\source\repos\Projet\Projet\obj\Debug\Projet.pdb
